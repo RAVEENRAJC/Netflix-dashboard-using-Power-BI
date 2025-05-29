@@ -1,0 +1,11 @@
+
+---
+
+### ✅ `requirements.txt`
+
+Since this is a Power BI project, the main requirements would apply only if you've done any preprocessing in Python. If not, this file can be empty or omitted. If you did, for example, use pandas:
+
+```txt
+pandas
+openpyxl
+numpy

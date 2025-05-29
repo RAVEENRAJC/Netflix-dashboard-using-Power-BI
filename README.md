@@ -1,5 +1,3 @@
-# Netflix-dashboard-using-Power-BI
-
 # 📊 Netflix Dashboard using Power BI
 
 This project presents a comprehensive **Power BI dashboard** that visualizes and analyzes Netflix's content library. It offers insights into trends, genres, release patterns, and content types, making it easier to understand Netflix’s global content strategy.
@@ -22,7 +20,7 @@ This project presents a comprehensive **Power BI dashboard** that visualizes and
 
 ## 📸 Dashboard Preview
 
-![Netflix Dashboard](./screenshots/dashboard_overview.png)
+![Netflix Dashboard](https://github.com/RAVEENRAJC/Netflix-dashboard-using-Power-BI/blob/main/dashboard.png)
 
 ## 💡 Getting Started
 
